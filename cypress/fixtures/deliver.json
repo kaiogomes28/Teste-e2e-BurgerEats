@@ -1,0 +1,35 @@
+{
+  "cpf_inv": {
+        "name": "Tony Stark",
+        "cpf": "00000000000",
+        "email": "admin@testestark.com",
+        "whatsapp": "47888888888",
+        "address": {
+        "postalcode": "88330522",
+        "street": "Rua 1500",
+        "number": "1000",
+        "details": "ap 75",
+        "district": "Centro",
+        "city_uf": "Balneário Camboriú/SC"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+  },
+  
+  "email_inv": {
+      "name": "Steve Rogers",
+      "cpf": "12345678901",
+      "email": "admintesteRogers.com.br",
+      "whatsapp": "47777777777",
+      "address": {
+      "postalcode": "88330522",
+      "street": "Rua 1500",
+      "number": "1000",
+      "details": "ap 75",
+      "district": "Centro",
+      "city_uf": "Balneário Camboriú/SC"
+      },
+      "delivery_method": "Moto",
+      "cnh": "cnh-digital.jpg"
+}
+}
